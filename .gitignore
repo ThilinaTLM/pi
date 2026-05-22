@@ -13,7 +13,6 @@ packages/*/dist-firefox/
 .env
 
 # Editor files
-.vscode/
 .zed/
 .idea/
 .claude/
@@ -39,3 +38,4 @@ plans/
 .pi/hf-sessions/
 .pi/hf-sessions-backup/
 collect.sh
+.vscode/
